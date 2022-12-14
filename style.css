@@ -79,7 +79,9 @@ h2{
   color: #11999e;
 font-weight: normal;
   font-size: 30px;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
+  margin-bottom: 4px;
+  
 }
 h3{
 color: #11899c;
